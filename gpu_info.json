@@ -1,0 +1,21 @@
+{
+	"total_mem": 8366784512,
+	"warp_size": 32,
+	"max_grid_dim": {
+		"z": 65535,
+		"y": 65535,
+		"x": 2147483647
+	},
+	"max_block_dim": {
+		"z": 64,
+		"y": 1024,
+		"x": 1024
+	},
+	"shared_mem_block": 49152,
+	"max_constant_mem": 65536,
+	"gpu_capability": {
+		"minor": 5,
+		"major": 7
+	},
+	"name": "GeForce RTX 2060 SUPER"
+}
