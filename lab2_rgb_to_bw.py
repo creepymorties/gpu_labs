@@ -88,4 +88,4 @@ def cuda_rgb_to_bw(inPath, outPath):
     print("Total execution time : ", totalTime)
 
 
-cuda_rgb_to_bw(inPath='./resources/convert_to_bw.jpeg', outPath='./resources/converted_image.jpeg')
+cuda_rgb_to_bw(inPath='./resources/rgb_to_bw/to_convert.jpg', outPath='./resources/rgb_to_bw/converted.jpg')
